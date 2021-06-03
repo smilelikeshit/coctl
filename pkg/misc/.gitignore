@@ -1,0 +1,16 @@
+# macOS
+**/.DS_store
+
+# Go builds
+**/app/
+**/build/
+
+# Temporary files
+tmp/
+
+# Node.js dependencies
+**/node_modules/
+
+# Files
+hosts.ini
+*.out
